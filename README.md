@@ -11,6 +11,7 @@ http://commons.trincoll.edu/cli/phc-ideas (to be verified)
 
 ## Credits
 Created by Ilya Ilyankou (@ilyankou) for Liberal Arts Action Lab, Hartford CT
+
 Updated on 2018.02.16 by Zorawar Moolenaar (@zorawar87)
 
 ## Dependencies
