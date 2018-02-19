@@ -2,7 +2,7 @@
 Display partner ideas from Google Forms on Community Learning web page
 
 ## Live example
-http://commons.trincoll.edu/cli/phc-ideas (to be verified)
+http://commons.trincoll.edu/cli/partners/ideas
 
 ## Google Drive folder
 https://drive.google.com/drive/folders/1m_TYUuPpQbpg4yPWykJq5q8L2Jzxf2dV
