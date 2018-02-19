@@ -18,7 +18,7 @@ function mergeTitleResearchNeeds(title, research, needs) {
     res += '<h3>' + title + '</h3>';
   }
 
-  res += '<p><span class="emphasis">Public Humanities Project: </span>' + research + '</p>';
+  res += '<p><span class="emphasis">Project Idea: </span>' + research + '</p>';
 
   if (needs) {
     res += '<p><span class="emphasis">Student Researchers: </span>' + needs + '</p>';
