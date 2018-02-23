@@ -1,7 +1,7 @@
-var ideasURL = 'https://docs.google.com/spreadsheets/d/10h3PmOuRoY9fJcpFoa1VJ0fSNrjYBFo0bc01FEpG_4s/pubhtml'
+var facultyURL = 'https://docs.google.com/spreadsheets/d/1FOYpxQQQ9EZUsuBDR_LKwVsQRz7pHF414g_X27h7ajo/pubhtml';
 
 Tabletop.init({
-  key: ideasURL,
+  key: facultyURL,
   callback: processData,
   simpleSheet: true,
 });
@@ -18,7 +18,7 @@ function mergeTitleResearchNeeds(title, research, needs) {
     res += '<h3>' + title + '</h3>';
   }
 
-  res += '<p><span class="emphasis">Project Idea: </span>' + research + '</p>';
+  res += '<p><span class="emphasis">Public Humanities Project: </span>' + research + '</p>';
 
   if (needs) {
     res += '<p><span class="emphasis">Student Researchers: </span>' + needs + '</p>';

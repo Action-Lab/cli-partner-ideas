@@ -1,11 +1,8 @@
-# cli-partner-ideas
-Display partner ideas from Google Forms on Community Learning web page
+# phc-partners
+Display Google Forms application data on Public Humanities Collaborative web page
 
 ## Live example
-http://commons.trincoll.edu/cli/partners/ideas
-
-## Google Drive folder
-https://drive.google.com/drive/folders/1m_TYUuPpQbpg4yPWykJq5q8L2Jzxf2dV
+http://commons.trincoll.edu/cli/phc
 
 ## Requirements
 - Google Form responses must appear in Google Sheets, which must be published. Insert URLs in main.js
@@ -13,8 +10,7 @@ https://drive.google.com/drive/folders/1m_TYUuPpQbpg4yPWykJq5q8L2Jzxf2dV
 - embed iframes for Google Form and also for this GH-published repo in the web pages
 
 ## Credits
-- Created by Ilya Ilyankou (@ilyankou) for Liberal Arts Action Lab, Hartford CT
-- Updated on 2018.02.16 by Zorawar Moolenaar (@zorawar87)
+Created by Ilya Ilyankou (@ilyankou) for Liberal Arts Action Lab, Hartford CT
 
 ## Dependencies
 * Tabletop v1.5.2, https://github.com/jsoma/tabletop
